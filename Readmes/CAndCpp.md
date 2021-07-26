@@ -15,6 +15,8 @@
 ### Videos
 
 * [FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0) for C
+* [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet) by CodeWithHarry
+* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) by CodeWithHarry
 * [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) for Dynamic Programming
 
 ---
