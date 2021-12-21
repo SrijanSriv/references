@@ -18,6 +18,7 @@
 * [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet) by CodeWithHarry
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) by CodeWithHarry
 * [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) for Dynamic Programming
+* [Pavin Mavrin](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4) for DSA
 
 ---
 
